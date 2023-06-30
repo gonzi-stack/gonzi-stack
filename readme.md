@@ -2,7 +2,7 @@
 
 ***My name is Gonzalo, I'm from Argentina and I'm a developer full stack.***
 
-* Actualmente trabajando en ***[Phobos]***(https://discord.gg/j6uhSNYsek)
+* Actualmente trabajando en ***[Phobos](https://discord.gg/j6uhSNYsek)***
 * Soy un desarrollador full stack
 * Manejo multiples lenguajes de programación y me adapto a cualquier cambio
 
