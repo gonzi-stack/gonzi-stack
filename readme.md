@@ -17,6 +17,4 @@
 ## Contact
 
 * Contacto por Discord
-```html
-<button>Hola<button/>
-```
+#2b321 hasda
