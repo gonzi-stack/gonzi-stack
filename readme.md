@@ -17,4 +17,3 @@
 ## Contact
 
 * Contacto por Discord
-#2b321 hasda
