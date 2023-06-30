@@ -17,3 +17,6 @@
 ## Contact
 
 * Contacto por Discord
+```html
+<button>Hola<button/>
+```
