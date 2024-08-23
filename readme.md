@@ -1,5 +1,3 @@
-<span style="color: blue;">[NOTE]</span> Este cambio mejora el rendimiento de la aplicación.
-
 ***My name is Gonzalo, I'm from Argentina and I'm a developer full stack.***
 
 * Actualmente trabajando en ***[Phobos](https://discord.gg/j6uhSNYsek)***, phobos es un bot de moderación avanzada el cual tiene una interfaz de usuario fácil de usar y configurar, es totalmente autónomo tras su configuración y se adapta fácilmente a los nuevos usuarios.
