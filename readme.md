@@ -1,8 +1,4 @@
-[NOTE] Este cambio mejora el rendimiento de la aplicación.
-[TODO] Añadir pruebas unitarias para esta nueva funcionalidad.
-[WARNING] Este cambio rompe la compatibilidad con versiones anteriores.
-[TIP] Considera usar `useMemo` para optimizar el rendimiento.
-
+> [NOTE] Este cambio mejora el rendimiento de la aplicación.
 
 ***My name is Gonzalo, I'm from Argentina and I'm a developer full stack.***
 
