@@ -1,4 +1,4 @@
-> [NOTE] Este cambio mejora el rendimiento de la aplicación.
+<span style="color: blue;">[NOTE]</span> Este cambio mejora el rendimiento de la aplicación.
 
 ***My name is Gonzalo, I'm from Argentina and I'm a developer full stack.***
 
