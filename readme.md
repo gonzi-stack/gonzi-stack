@@ -10,8 +10,7 @@
 ◈ Transformando ideas en código desde Argentina ◈
 ```
 
-[![Discord](https://img.shields.io/badge/Discord-Contact%20Me-f97316?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/j6uhSNYsek)
-[![Phobos](https://img.shields.io/badge/Phobos%20Bot-Join%20Server-b45309?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/j6uhSNYsek)
+[![Discord](https://img.shields.io/badge/Discord-@dragonmalo-f97316?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1312615767929393193)
 
 </div>
 
@@ -25,26 +24,13 @@
 const gonzalo = {
   location: "Argentina 🇦🇷",
   role: "Full Stack Developer",
-  currentProject: "Phobos Bot 🤖",
+  collab: "@KamerrEzz at Zeew",
   passion: "Crear experiencias únicas",
   available: true,
 };
 ```
 
 <br clear="right"/>
-
----
-
-### 🤖 Proyecto Destacado — Phobos Bot
-
-<div align="center">
-
-> **Phobos** es un bot de moderación avanzada para Discord con interfaz intuitiva,  
-> totalmente autónomo tras su configuración y adaptado para comunidades de cualquier tamaño.
-
-[![Phobos](https://img.shields.io/badge/▶%20Invitar%20Phobos-f97316?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/j6uhSNYsek)
-
-</div>
 
 ---
 
@@ -85,7 +71,7 @@ const gonzalo = {
 
 **¿Tenés un proyecto en mente? ¡Hablemos!**
 
-[![Discord](https://img.shields.io/badge/Discord-Gonzalo-f97316?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/j6uhSNYsek)
+[![Discord](https://img.shields.io/badge/Discord-@dragonmalo-f97316?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1312615767929393193)
 
 <br/>
 
